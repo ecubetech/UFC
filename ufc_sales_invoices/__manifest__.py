@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "UFC Sales Invoice",
+    'name': "UFC Sales Invoice...",
     'description': "UFC Sales Invoice",
     'author': 'Nayyab',
     'application': True,
